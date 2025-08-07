@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/964886766181473978/280e0fa2acf247f58119f04ca89d6c7e/artifacts
+end_time: 1754554904020
+entry_point_name: ''
+experiment_id: '964886766181473978'
+lifecycle_stage: active
+run_id: 280e0fa2acf247f58119f04ca89d6c7e
+run_name: likeable-bug-7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754554901730
+status: 3
+tags: []
+user_id: karan

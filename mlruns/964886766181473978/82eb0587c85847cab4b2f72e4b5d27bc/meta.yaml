@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/964886766181473978/82eb0587c85847cab4b2f72e4b5d27bc/artifacts
+end_time: 1754500783757
+entry_point_name: ''
+experiment_id: '964886766181473978'
+lifecycle_stage: active
+run_id: 82eb0587c85847cab4b2f72e4b5d27bc
+run_name: omniscient-tern-271
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754500781842
+status: 3
+tags: []
+user_id: karan

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/964886766181473978/9b91fec42a0b41149b60cf7a5dfa3c6f/artifacts
+end_time: 1754501088325
+entry_point_name: ''
+experiment_id: '964886766181473978'
+lifecycle_stage: active
+run_id: 9b91fec42a0b41149b60cf7a5dfa3c6f
+run_name: melodic-owl-216
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754501086415
+status: 3
+tags: []
+user_id: karan

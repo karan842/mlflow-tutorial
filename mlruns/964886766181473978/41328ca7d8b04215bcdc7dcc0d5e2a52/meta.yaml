@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/964886766181473978/41328ca7d8b04215bcdc7dcc0d5e2a52/artifacts
+end_time: 1754500765169
+entry_point_name: ''
+experiment_id: '964886766181473978'
+lifecycle_stage: active
+run_id: 41328ca7d8b04215bcdc7dcc0d5e2a52
+run_name: crawling-sponge-316
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754500764955
+status: 4
+tags: []
+user_id: karan

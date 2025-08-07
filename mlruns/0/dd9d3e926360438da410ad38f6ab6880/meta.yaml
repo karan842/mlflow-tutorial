@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/dd9d3e926360438da410ad38f6ab6880/artifacts
+deleted_time: 1754496532843
+end_time: 1754493947181
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: dd9d3e926360438da410ad38f6ab6880
+run_name: bold-mouse-284
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754493947170
+status: 3
+tags: []
+user_id: karan

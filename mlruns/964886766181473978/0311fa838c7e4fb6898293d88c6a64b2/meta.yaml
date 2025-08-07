@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/964886766181473978/0311fa838c7e4fb6898293d88c6a64b2/artifacts
+end_time: 1754500521266
+entry_point_name: ''
+experiment_id: '964886766181473978'
+lifecycle_stage: active
+run_id: 0311fa838c7e4fb6898293d88c6a64b2
+run_name: beautiful-carp-15
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754500519251
+status: 4
+tags: []
+user_id: karan

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/964886766181473978/6308d92185534431a18daf5bfa981982/artifacts
+end_time: 1754500444885
+entry_point_name: ''
+experiment_id: '964886766181473978'
+lifecycle_stage: active
+run_id: 6308d92185534431a18daf5bfa981982
+run_name: masked-foal-806
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754500443062
+status: 3
+tags: []
+user_id: karan

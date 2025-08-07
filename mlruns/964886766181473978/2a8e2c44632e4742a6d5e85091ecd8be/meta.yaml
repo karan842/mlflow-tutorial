@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/964886766181473978/2a8e2c44632e4742a6d5e85091ecd8be/artifacts
+end_time: 1754498131215
+entry_point_name: ''
+experiment_id: '964886766181473978'
+lifecycle_stage: active
+run_id: 2a8e2c44632e4742a6d5e85091ecd8be
+run_name: polite-crow-248
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754498129128
+status: 3
+tags: []
+user_id: karan

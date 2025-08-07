@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/21498626aa224b46b838e8bd7af99ed2/artifacts
+deleted_time: 1754496532843
+end_time: 1754493863327
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 21498626aa224b46b838e8bd7af99ed2
+run_name: gaudy-hog-770
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754493863314
+status: 3
+tags: []
+user_id: karan

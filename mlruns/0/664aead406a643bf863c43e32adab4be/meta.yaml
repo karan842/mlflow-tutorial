@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/664aead406a643bf863c43e32adab4be/artifacts
+end_time: 1754497679190
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 664aead406a643bf863c43e32adab4be
+run_name: valuable-turtle-569
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754497678981
+status: 3
+tags: []
+user_id: karan

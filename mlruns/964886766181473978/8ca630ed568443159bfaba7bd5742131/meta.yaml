@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/964886766181473978/8ca630ed568443159bfaba7bd5742131/artifacts
+end_time: 1754500774147
+entry_point_name: ''
+experiment_id: '964886766181473978'
+lifecycle_stage: active
+run_id: 8ca630ed568443159bfaba7bd5742131
+run_name: fun-fox-512
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754500773940
+status: 4
+tags: []
+user_id: karan

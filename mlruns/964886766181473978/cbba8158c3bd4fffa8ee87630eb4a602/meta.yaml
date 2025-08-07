@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/964886766181473978/cbba8158c3bd4fffa8ee87630eb4a602/artifacts
+end_time: 1754500754551
+entry_point_name: ''
+experiment_id: '964886766181473978'
+lifecycle_stage: active
+run_id: cbba8158c3bd4fffa8ee87630eb4a602
+run_name: fun-goose-640
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754500754236
+status: 4
+tags: []
+user_id: karan

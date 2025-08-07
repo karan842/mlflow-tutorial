@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/964886766181473978/52a6172afc664241a10ce1709122b8e6/artifacts
+end_time: 1754497751860
+entry_point_name: ''
+experiment_id: '964886766181473978'
+lifecycle_stage: active
+run_id: 52a6172afc664241a10ce1709122b8e6
+run_name: gaudy-dove-793
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754497751663
+status: 3
+tags: []
+user_id: karan
