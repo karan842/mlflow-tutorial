@@ -11,9 +11,11 @@ import dagshub
 import joblib
 
 # Initialize DagsHub and set MLflow tracking URI
-dagshub.init(repo_owner="your-repo-owner", repo_name="your-repo-name", mlflow=True)
-mlflow.set_tracking_uri("your-mlflow-tracking-uri")
-mlflow.set_experiment("your-experiment-name")
+dagshub.init(repo_owner="karanshingde", repo_name="mlflow-dagshub", mlflow=True)
+mlflow.set_tracking_uri("https://dagshub.com/karanshingde/mlflow-dagshub.mlflow")
+
+mlflow.autolog()
+mlflow.set_experiment("MLOps-Exp")
 
 # Load wine dataset
 wine = load_wine()
@@ -35,9 +37,9 @@ with mlflow.start_run():
     accuracy = accuracy_score(y_test, y_pred)
 
     # Log metrics and parameters
-    mlflow.log_metric("accuracy", accuracy)
-    mlflow.log_param("max_depth", max_depth)
-    mlflow.log_param("n_estimators", n_estimators)
+    # mlflow.log_metric("accuracy", accuracy)
+    # mlflow.log_param("max_depth", max_depth)
+    # mlflow.log_param("n_estimators", n_estimators)
 
     # Create and save confusion matrix plot
     cm = confusion_matrix(y_test, y_pred)
@@ -48,7 +50,7 @@ with mlflow.start_run():
     plt.ylabel("Actual")
     plt.title("Confusion Matrix")
     plt.savefig("confusion_matrix.png")
-    mlflow.log_artifact("confusion_matrix.png")
+    # mlflow.log_artifact("confusion_matrix.png")
     mlflow.log_artifact(__file__)
 
     # Save model manually
@@ -62,8 +64,8 @@ with mlflow.start_run():
     # mlflow.log_artifact("signature.json")
 
     # Set tags
-    mlflow.set_tags({"version": "1.0", "author": "your-author-name", "project": "your-project-name"})
-    
-    mlflow.sklearn.log_model(rf, "random-forest-model")
+    mlflow.set_tags({"version": "1.0", "author": "Karan", "project": "wine-classification"})
+    # LOG MODEL
+    # mlflow.sklearn.log_model(rf, "random-forest-model")
 
     print(f"Accuracy: {accuracy}")
